@@ -1,0 +1,17 @@
+{
+  "format": "household-replacement-reference",
+  "version": 1,
+  "records": [
+    {
+      "id": "example-1",
+      "photo": "",
+      "name": "Extractor filter",
+      "room": "Kitchen",
+      "category": "Filter",
+      "size": "260 × 320 mm",
+      "model": "Example F-26",
+      "link": "",
+      "notes": "Measure the old filter before ordering."
+    }
+  ]
+}

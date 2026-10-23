@@ -1,0 +1,25 @@
+{
+  "slug": "household-replacement-reference",
+  "name": "Household Replacement Reference",
+  "tag": "The right size, next time.",
+  "intro": "Keep the filter sizes, bulb fittings and model numbers your home needs in one local reference.",
+  "item": "reference",
+  "fields": [
+    ["name", "Item name", "text", true],
+    ["room", "Room or location", "text", true],
+    ["category", "Category", "text", true],
+    ["size", "Size or fitting", "text", false],
+    ["model", "Model or part number", "text", false],
+    ["link", "Optional purchase or manufacturer link", "url", false],
+    ["notes", "Notes", "textarea", false]
+  ],
+  "example": {
+    "name": "Extractor filter",
+    "room": "Kitchen",
+    "category": "Filter",
+    "size": "260 × 320 mm",
+    "model": "Example F-26",
+    "link": "",
+    "notes": "Measure the old filter before ordering."
+  }
+}
